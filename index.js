@@ -27,7 +27,7 @@ class Hyena extends Animal {
 let son = new Lion("Simba", 2, "golden");
 //son.intro();
 
-let puppy = new Hyena("Baddo", 2, "dotted brown", "jaw");
+let puppy = new Hyena("Zazu", 2, "dotted brown", "jaw");
 //puppy.hello();
 
 // polymorphism
