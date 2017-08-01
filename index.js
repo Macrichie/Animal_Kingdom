@@ -19,7 +19,7 @@ class Hyena extends Animal {
 		this.color = color;
 		this.dentition = dentition;
 	}
-	hello() {
+	intro() {
 		console.log(`Hi! I'm ${this.name}, I'm ${this.height}feet tall, I have and I have the strongest ${this.dentition} in the The wild.`);
 	}
 }
