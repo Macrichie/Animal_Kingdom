@@ -1,0 +1,26 @@
+{
+  "name": "daily_outcome2",
+  "version": "1.0.0",
+  "description": "OOP implementation by creating the Animal Kingdom",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Macrichie/Animal_Kingdom.git"
+  },
+  "author": "Makanjuola Olakunle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Macrichie/Animal_Kingdom/issues"
+  },
+  "homepage": "https://github.com/Macrichie/Animal_Kingdom#readme",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.5.0"
+  }
+}
